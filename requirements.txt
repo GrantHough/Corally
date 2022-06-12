@@ -140,6 +140,7 @@ smmap==5.0.0
 sniffio @ file:///Users/runner/miniforge3/conda-bld/sniffio_1648819232259/work
 soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1638550740809/work
 sqlparse==0.4.2
+st-btn-select==0.1.2
 stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1644872665635/work
 streamlit==1.8.1
 tenacity==8.0.1
