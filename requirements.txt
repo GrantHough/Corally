@@ -160,7 +160,6 @@ toolz==0.11.2
 tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1648827299372/work
 tqdm==4.64.0
 traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1635260543454/work
-twilio==7.8.2
 typing_extensions==4.2.0
 tzdata==2022.1
 tzlocal==4.2
@@ -173,5 +172,4 @@ websocket-client @ file:///home/conda/feedstock_root/build_artifacts/websocket-c
 Werkzeug==2.1.1
 widgetsnbextension @ file:///Users/runner/miniforge3/conda-bld/widgetsnbextension_1647446981993/work
 wrapt==1.14.0
-yfinance==0.1.70
 zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1649012893348/work

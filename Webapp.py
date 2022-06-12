@@ -67,7 +67,7 @@ if selection == 'ABOUT':
     st.title("About")
     st.image("Corally Logo.png", width = 500)
     st.subheader("Our Mission")
-    st.markdown("The goal of **Corally** is to provide the community an opportunity to **rally** together and gather information about the coral around them and forward it to coral reef organizations. **Corally** utilizes machine leanring technology to help process submitted images before they reach the organizations in hopes of making it easier to sort through and process.")
+    st.markdown("The goal of **Corally** is to provide the community an opportunity to **rally** together and gather information about the coral around them and forward it to coral reef organizations. **Corally** aims to make data easier to sort through and process by utilizing machine learning technology to help process submitted images before they reach the organization.")
     st.subheader("How Corally was Built")
     st.markdown("**Corally**'s web app was built using a framework called Streamlit, which is used to create and host web apps in Python. The model for determining the health of coral images was created using TensorFlow and Keras. User-inputted images were processed with OpenCV.")
 
