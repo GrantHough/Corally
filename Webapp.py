@@ -72,4 +72,4 @@ if selection == 'ABOUT':
     st.markdown("**Corally**'s web app was built using a framework called Streamlit, which is used to create and host web apps in Python. The model for determining the health of coral images was created using TensorFlow and Keras. This model is an 11-layer convolutional neural network with 9 hidden layers and 3 convolutional layers. It was trained on a dataset of dead, bleached, and healthy coral for 20 epochs.")
     st.image("CNN.png")
     st.subheader("The Future of Corally")
-    st.markdown("In the future, I hope to further optimize the TensorFlow model as it struggles with bleached versus dead coral images. It also has a strong bias towards healthy coral. I also plan to partner with as many coral reef organizations as possible in order to maxmimize the impact of **Corally**.")
+    st.markdown("In the future, I hope to further optimize the TensorFlow model as it struggles with bleached versus dead coral images. It also has a strong bias towards healthy coral. I also plan to partner with as many coral reef organizations as possible in order to maximize the impact of **Corally**.")
