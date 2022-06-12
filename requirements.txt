@@ -4,6 +4,7 @@ anyio @ file:///Users/runner/miniforge3/conda-bld/anyio_1641898098257/work/dist
 appnope @ file:///home/conda/feedstock_root/build_artifacts/appnope_1649077682618/work
 argon2-cffi @ file:///home/conda/feedstock_root/build_artifacts/argon2-cffi_1640817743617/work
 argon2-cffi-bindings @ file:///Users/runner/miniforge3/conda-bld/argon2-cffi-bindings_1649500366499/work
+asgiref==3.5.2
 asttokens @ file:///home/conda/feedstock_root/build_artifacts/asttokens_1618968359944/work
 astunparse==1.6.3
 attrs @ file:///home/conda/feedstock_root/build_artifacts/attrs_1640799537051/work
@@ -28,6 +29,7 @@ Cython==0.29.28
 debugpy @ file:///Users/runner/miniforge3/conda-bld/debugpy_1649586402495/work
 decorator @ file:///home/conda/feedstock_root/build_artifacts/decorator_1641555617451/work
 defusedxml @ file:///home/conda/feedstock_root/build_artifacts/defusedxml_1615232257335/work
+Django==4.0.5
 entrypoints @ file:///home/conda/feedstock_root/build_artifacts/entrypoints_1643888246732/work
 ephem==4.1.3
 executing @ file:///home/conda/feedstock_root/build_artifacts/executing_1646044401614/work
@@ -137,6 +139,7 @@ sklearn==0.0
 smmap==5.0.0
 sniffio @ file:///Users/runner/miniforge3/conda-bld/sniffio_1648819232259/work
 soupsieve @ file:///home/conda/feedstock_root/build_artifacts/soupsieve_1638550740809/work
+sqlparse==0.4.2
 stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1644872665635/work
 streamlit==1.8.1
 tenacity==8.0.1
