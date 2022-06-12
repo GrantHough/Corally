@@ -1,9 +1,7 @@
-jupyterlab==3.4.3
 keras==2.8.0
 numpy==1.21.6
 opencv-python==4.6.0.66
 pandas==1.4.2
-pandas-datareader==0.10.0
 st-btn-select==0.1.2
 streamlit==1.8.1
 tensorflow==2.8.0
