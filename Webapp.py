@@ -68,6 +68,7 @@ if selection == 'ABOUT':
     st.subheader("Our Mission")
     st.markdown("The goal of **Corally** is to provide the community an opportunity to **rally** together and gather information about the coral around them and forward it to coral reef organizations. **Corally** aims to make data easier to sort through and process by utilizing machine learning technology to help process submitted images before they reach the organization.")
     st.subheader("How Corally was Built")
+    st.image("Corally_Slides.jpeg")
     st.markdown("**Corally**'s web app was built using a framework called Streamlit, which is used to create and host web apps in Python. The model for determining the health of coral images was created using TensorFlow and Keras. User-inputted images were processed with OpenCV.")
     st.subheader("The Future of Corally")
     st.markdown("In the future, I hope to further optimize the TensorFlow model as it struggles with bleached versus dead coral images. It also has a strong bias towards healthy coral. I also plan to partner with as many coral reef organizations as possible in order to maxmimize the impact of **Corally**.")
