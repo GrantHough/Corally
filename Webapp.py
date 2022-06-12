@@ -17,7 +17,7 @@ if selection == 'SUBMIT':
     st.title("Welcome to Corally")
     st.subheader("Rallying together to gather and spread intel on the health of corals and provide coral reef organizations with up-to-date information using ML")
 
-    image = st.file_uploader(label = "Upload an image for analysis:", type = ['png', 'jpg', 'jpeg', 'tif', 'tiff', 'raw', 'heic', 'webp'])
+    image = st.file_uploader(label = "Upload an image for analysis:", type = ['png', 'jpg', 'jpeg', 'tif', 'tiff', 'raw', 'webp'])
 
     def import_and_predict(image_data, model):
         size = (227, 227)
