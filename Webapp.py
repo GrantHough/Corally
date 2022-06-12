@@ -2,7 +2,6 @@ from datetime import datetime
 from keras.models import load_model
 import streamlit as st
 import numpy as np
-import cv2
 import glob
 import pandas as pd
 import tensorflow as tf
